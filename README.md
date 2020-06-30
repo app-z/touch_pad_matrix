@@ -9,8 +9,11 @@ https://github.com/espressif/esp-iot-solution/blob/master/documents/touch_pad_so
 How to build
 
 $make menuconfig
+
 $make -j4
+
 $make flash
+
 $make monitor
 
 
